@@ -1,1 +1,1 @@
-# AI-project2--predict-ncome
+# AI-project2-predict-income
