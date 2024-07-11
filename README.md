@@ -22,9 +22,4 @@ Ensure you have the following installed:
 - Scikit-learn
 - Pandas
 - Numpy
-- Pillow (for image handling)
 
-You can install the required packages using pip:
-
-```bash
-pip install streamlit scikit-learn pandas numpy pillow
